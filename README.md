@@ -1,6 +1,10 @@
 1. simulteur du jeu Chifoumi (Pierre-feuille-ciseaux). avec trois manières différentes qui sont, le raisonnement aléatoire, le raisonnement humain et une confrontation de différentes suites de coups dans le but d’obtenir la suite la plus avantageuse.  
 2. Interface utilisateur pour jouer contre le programme en laissant le choix du raisonnement (humain, aléatoire, traitement) à l’utilisateur.  
   
+## Démo:  
+  
+<img src="https://github.com/Youva-git/demos/blob/master/IA.gif">  
+  
 ## Manuel d'utilisation:  
   
 1. Installer les Requirements.  
